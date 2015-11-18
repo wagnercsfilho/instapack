@@ -1,0 +1,28 @@
+{
+  "name": "beebow",
+  "version": "0.0.0",
+  "authors": [
+    "wagnercsfilho <wagnercsfilho@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "ngCordova": "~0.1.20-alpha",
+    "hello": "~1.9.3",
+    "angular-moment": "~1.0.0-beta.2",
+    "ngmap": "~1.13.13",
+    "angular-touch": "~1.4.7",
+    "phonepack": "~0.1.4"
+  }
+}
